@@ -1,0 +1,2 @@
+Brew/12.[[:space:]]Serving[[:space:]]a[[:space:]]Tensorflow[[:space:]]Model[[:space:]]through[[:space:]]a[[:space:]]Website/MNIST_Model_Load_Files/load_xtest.csv filter=lfs diff=lfs merge=lfs -text
+Brew/11.[[:space:]]Use[[:space:]]Tensorflow[[:space:]]to[[:space:]]Classify[[:space:]]Handwritten[[:space:]]Digits/digit_xtrain.csv filter=lfs diff=lfs merge=lfs -text
